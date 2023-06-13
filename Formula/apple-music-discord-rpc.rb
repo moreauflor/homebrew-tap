@@ -3,6 +3,7 @@ class AppleMusicDiscordRpc < Formula
   homepage "https://github.com/NextFire/apple-music-discord-rpc"
   url "https://github.com/NextFire/apple-music-discord-rpc/archive/refs/tags/0.7.0.tar.gz"
   sha256 "d4bbc763aaa0438cba9e12a289653885b185648128552b65e7652fa215b82aa1"
+  revision 1
   license "MIT"
   head "https://github.com/NextFire/apple-music-discord-rpc.git", branch: "main"
 
