@@ -17,6 +17,6 @@ class AppleMusicDiscordRpc < Formula
     keep_alive true
     environment_variables PATH: std_service_path_env
     working_dir var/"apple-music-discord-rpc"
-    error_log_path "music-rpc.log"
+    error_log_path var/"apple-music-discord-rpc/music-rpc.log"
   end
 end
