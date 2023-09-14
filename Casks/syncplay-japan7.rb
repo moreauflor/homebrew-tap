@@ -1,8 +1,8 @@
 cask "syncplay-japan7" do
-  version "b80dbb06"
+  version "eaec6b15"
   sha256 :no_check
 
-  url "https://hikari.butaishoujo.moe/b/#{version}/Syncplay_1.7.0.dmg",
+  url "https://hikari.butaishoujo.moe/b/#{version}/Syncplay_1.7.1.dmg",
       verified: "hikari.butaishoujo.moe/"
   name "Syncplay-Japan7"
   desc "Synchronises media players"
