@@ -2,7 +2,7 @@ class AppleMusicDiscordRpc < Formula
   desc "Discord Rich Presence client for the macOS Apple Music app"
   homepage "https://github.com/moreauflor/apple-music-discord-rpc"
   url "https://github.com/moreauflor/apple-music-discord-rpc/releases/tag/0.8.1"
-  sha256 "68e465fa5253be60b4c38a80c375c041902536b50d92ad2b1d694330c1b8ee19"
+  sha256 "b605b9eeb9031057c11ba8fc5c8021bfaa3545e017f3d664f7873e9f62dfd30d"
   license "MIT"
   head "https://github.com/moreauflor/apple-music-discord-rpc.git", branch: "main"
 
